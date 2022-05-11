@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-represorio
-Desafio do Projeto Git/GitHub
+# Desafio do Projeto sobre Git/GitHub da DIO
+Represório dp desafio do Projeto Git/GitHub
